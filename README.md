@@ -93,3 +93,7 @@ Tests cover API functionality, including task creation, retrieval, updates, dele
 ## Project Overview
 
 This project demonstrates full-stack application development, REST API design, relational database integration, automated testing, and frontend-to-backend communication.
+
+## Application Screenshot
+
+![Task Manager Interface](screenshots/task-manager.png)
